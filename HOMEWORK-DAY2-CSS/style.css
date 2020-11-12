@@ -25,12 +25,12 @@ body{
     background-color: #57A830;
     margin: 0px auto;
 }
-ul.root li{
+li{
     list-style: none;
     float: left;
 }
 
-ul.root li a{
+a{
     font-size: 25px;
     color: white;
     text-decoration: none;
